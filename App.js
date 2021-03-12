@@ -215,12 +215,6 @@ const styles = StyleSheet.create({
     marginLeft:10,
     opacity: 0.6,
     padding:5    
-  },
-  lista: {    
-    flex:1,
-    flexDirection:'row'
   }
-  
-
 });
 
